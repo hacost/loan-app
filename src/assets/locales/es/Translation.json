@@ -1,0 +1,23 @@
+{
+  "app": {
+    "appName": "Carrito de venta", 
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "whatsApp": "WhatsApp",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar contraseña",
+    "signIn": "Iniciar sesión",
+    "signUp": "Crear cuenta nueva"
+  },
+  "signIn": {
+    "rememberMe": "Recordar contraseña",
+    "forgot": "¿Olvidaste tu contraseña?"
+  },
+  "signUp": {
+    "signUp": "Registrarte",
+    "quick": "Es rápido y fácil.",
+    "agree": "Al hacer clic en Registrarte, aceptas nuestras Condiciones, la Política de datos y la Política de cookies.",
+    "haveAccount": "¿Ya tienes una cuenta?"
+  }
+}

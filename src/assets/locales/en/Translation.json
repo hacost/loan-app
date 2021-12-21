@@ -1,0 +1,23 @@
+{
+  "app": {
+    "appName": "Sales cart",  
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "whatsApp": "WhatsApp",
+    "email": "Email address",
+    "password": "Password", 
+    "confirmPassword": "Confirm Password",
+    "signIn": "Log In",
+    "signUp": "Create New Account"
+  },
+  "signIn": {
+    "rememberMe": "Remember password",
+    "forgot": "Forgot password?"
+  },
+  "signUp": {
+    "signUp": "Sign Up",
+    "quick": "It’s quick and easy.",
+    "agree": "By clicking Sign Up, you agree to our Terms, Data Policy and Cookies Policy.",
+    "haveAccount": "Already have an account?"
+  }
+}

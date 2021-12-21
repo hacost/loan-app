@@ -1,0 +1,20 @@
+@import '../commons/Vars.scss';
+
+body{
+    font-family: $main-font;
+    font-size: 12px;
+}
+.container{
+    display: grid;
+    grid-template: 100px 1fr 100px / 200px 1fr;
+    height: 97vh; 
+    grid-template-areas: "header header"
+                         "content content"
+                         "footer footer";
+	gap: 10px;
+}
+.item{
+    /* background:lightblue; */
+    padding: 10px;
+    border: 1px solid #0099b6;
+}
