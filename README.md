@@ -1,4 +1,4 @@
-# React app Template
+# Loan app
 
 [React](https://reactjs.org/) based application using ES6 syntax and [webpack](https://webpack.js.org/).
 

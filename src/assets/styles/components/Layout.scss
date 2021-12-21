@@ -9,7 +9,7 @@ body{
     grid-template: 100px 1fr 100px / 200px 1fr;
     height: 97vh; 
     grid-template-areas: "header header"
-                         "content content"
+                         "menu content"
                          "footer footer";
 	gap: 10px;
 }

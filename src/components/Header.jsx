@@ -3,7 +3,7 @@ import { connect } from 'react-redux';
 import { Link } from 'react-router-dom';
 import { logoutRequest } from '../actions/App';
 import '../assets/styles/components/Header.scss';
-import logo from '../assets/static/logo.png';
+// import logo from '../assets/static/logo.png';
 import userIcon from '../assets/static/user-icon.png';
 
 const Header = (props) => {
@@ -17,7 +17,7 @@ const Header = (props) => {
     <>
       <header className='item header'>
         <Link to='/'>
-          <img className='header__logo' src={logo} alt='logo' />
+          <img className='header__logo' alt='logo' />
         </Link>
         <div className='header__menu'>
           { hasUser ? (
